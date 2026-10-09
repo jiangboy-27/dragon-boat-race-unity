@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbaf1901974ee1e40b8e352807966a4c, type: 3}
+  m_Name: Blessing_Xionghuang
+  m_EditorClassIdentifier: 
+  blessingId: xionghuang
+  blessingName: "\u96C4\u9EC4\u4E4B\u6012"
+  description: "\u996E\u96C4\u9EC4\u9152\uFF0C\u9A71\u8D76\u86C7\u866B"
+  icon: {fileID: 21300000, guid: 3ff65bdde883b3f4e99e5b58ee349207, type: 3}
+  effectType: 1
+  unlockCost:
+    greenSilk: 1
+    redSilk: 1
+    yellowSilk: 1
+    whiteSilk: 1
+    blackSilk: 1
+    dragonXp: 1
+  levelValues:
+  - 20
+  - 25
+  - 30
+  upgradeCosts:
+  - greenSilk: 1
+    redSilk: 0
+    yellowSilk: 0
+    whiteSilk: 0
+    blackSilk: 0
+    dragonXp: 0
+  - greenSilk: 1
+    redSilk: 0
+    yellowSilk: 0
+    whiteSilk: 0
+    blackSilk: 0
+    dragonXp: 0

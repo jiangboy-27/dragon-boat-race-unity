@@ -1,0 +1,49 @@
+# === Unity 生成目录 ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emory[Cc]aptures/
+[Rr]ecordings/
+
+# === IDE / 编辑器 ===
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# === Unity 生成的 meta / 临时文件 ===
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# === 构建产物与资源包（体积大，放在 GitHub Release 中） ===
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.zip
+Builds/
+Release/
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+desktop.ini
